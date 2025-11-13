@@ -1,0 +1,5 @@
+{
+  "name": "Morocco Time Now",
+  "description": "A simple and elegant web application that displays the current time in Morocco using the Gemini API with Google Search grounding.",
+  "requestFramePermissions": []
+}
